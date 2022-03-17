@@ -25,7 +25,7 @@ void setup()
   rect(titleX, titleY, titleWidth, titleHeight);
 }//End setup
 //
-Void draw() 
+void draw() 
 {
   //Drawing Text
   fill(purple); //Ink, hexidecimal copied from Colour Selector
